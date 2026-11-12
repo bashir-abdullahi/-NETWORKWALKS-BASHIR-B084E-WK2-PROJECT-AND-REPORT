@@ -5,7 +5,7 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name** | **BASHIR ABDULLAHI** |
+| **Name** | **BASHIR ABDULLAHI** |
 | **Program/Batch** | B084E-Networkwalks |
 | **Date** |12 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
