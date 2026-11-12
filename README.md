@@ -176,3 +176,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 
 ![Screenshot 6](screenshots/Screenshot%206.png)
+
+
+
+
+
+![Screenshot 7](screenshots/Screenshot%207.png)
