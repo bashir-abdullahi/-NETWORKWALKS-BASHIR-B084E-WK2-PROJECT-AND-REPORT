@@ -1,7 +1,7 @@
 # PENETRATION TESTING & REPORT
 ### Footprinting & Network Scanning Phases
 
-**W2-PM |  CYBERSECURITY INTERNSHIP  |  NETWORKWALKS**
+**W2-PM1 & W2-PM5 |  CYBERSECURITY INTERNSHIP  |  NETWORKWALKS**
 
 | Field | Detail |
 |---|---|
