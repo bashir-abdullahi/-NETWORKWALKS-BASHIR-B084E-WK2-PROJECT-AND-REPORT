@@ -1,11 +1,11 @@
 # PENETRATION TESTING & REPORT
 ### Footprinting & Network Scanning Phases
 
-**W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
+**W2-PM |  CYBERSECURITY INTERNSHIP  |  NETWORKWALKS**
 
 | Field | Detail |
 |---|---|
-| **Pentester Name** | **Bashir Abdullahi** |
+| **Pentester Name** | **BASHIR ABDULLAHI** |
 | **Program/Batch** | B084E-Networkwalks |
 | **Date** |12 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
